@@ -1,0 +1,9 @@
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\bin\Debug\ConsoleToets.exe.config
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\bin\Debug\ConsoleToets.exe
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\bin\Debug\ConsoleToets.pdb
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\obj\Debug\ConsoleToets.csprojResolveAssemblyReference.cache
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\obj\Debug\ConsoleToets.exe
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleToets\ConsoleToets\obj\Debug\ConsoleToets.pdb
+C:\Users\215272\Source\Repos\ToetsCsharpEwoud2\ConsoleToets\bin\Debug\ConsoleToets.exe.config
+C:\Users\215272\Source\Repos\ToetsCsharpEwoud2\ConsoleToets\obj\Debug\ConsoleToets.exe
+C:\Users\215272\Source\Repos\ToetsCsharpEwoud2\ConsoleToets\obj\Debug\ConsoleToets.pdb
